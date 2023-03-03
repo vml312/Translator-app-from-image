@@ -1,7 +1,7 @@
 # Translator app from image
 Python app that translates the text from the uploaded image
  
-To execute the app its necessary to have pytesseract downloaded (with conda: conda install -c conda-forge pytesseract)
+To execute the app its necessary to have pytesseract downloaded (with conda: 'conda install -c conda-forge pytesseract') and execute 'streamlit run app.py' (if the terminal is in the directory)
  
 Works better with latin-alphabet languages, other alphabets are not so well captured.
 
